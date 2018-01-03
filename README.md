@@ -2,7 +2,8 @@
 
 Collection of some tactical signs depending on the DV 102.
 All files are available as *.png or *.svg.
-
+'./gs   ==>   "Gefahren und Schäden"
+./vorlagen    ==> all files as *.svg'
 ## LICENSE
 
 (MIT License)
